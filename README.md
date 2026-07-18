@@ -25,3 +25,4 @@ publicly readable home for the lifetime of the pull requests.
 - `bump-3backends.jpg` — Bump Chart template PR
 - `plotly-4templates.jpg` — Plotly backend PR (#54)
 - `plotly-facets.jpg` — Plotly backend PR: facet grids + diverging palette
+- `a11y-decal-comparison.jpg` — a11y baseline PR: ECharts decal off/on
