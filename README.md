@@ -12,7 +12,7 @@ checking out the branch and building the demo site locally.
 Images are embedded in PR bodies via raw URLs of the form:
 
 ```
-https://raw.githubusercontent.com/zl190/flint-chart/assets/lollipop-screenshots/<file>.jpg
+https://raw.githubusercontent.com/zl190/flint-chart/assets/screenshots/<file>.jpg
 ```
 
 This branch is intentionally detached from the source tree: it contains no
