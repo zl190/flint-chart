@@ -24,3 +24,4 @@ publicly readable home for the lifetime of the pull requests.
 - `lollipop-3backends.jpg` — Lollipop Chart template PR (#59)
 - `bump-3backends.jpg` — Bump Chart template PR
 - `plotly-4templates.jpg` — Plotly backend PR (#54)
+- `plotly-facets.jpg` — Plotly backend PR: facet grids + diverging palette
